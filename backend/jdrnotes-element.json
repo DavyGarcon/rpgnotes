@@ -1,0 +1,94 @@
+[
+	{
+		"id": "5e43afd4-488c-46b2-b108-44c7c10ae559",
+		"label": {
+			"value": "Element 1"
+		},
+		"comment": {
+			"value": "mon 1er Element"
+		},
+		"description": "ça c'est un element",
+		"icon": {
+			"path": "go.sum"
+		},
+		"notes": [
+			{
+				"text": "ma première Note"
+			}
+		],
+		"tags": [
+			"test"
+		],
+		"connections": [
+			""
+		],
+		"images": [
+			{
+				"path": "encore.app"
+			}
+		],
+		"containerId": "a3a2ab08-b6c1-4de2-8d28-eceba74df38c"
+	},
+	{
+		"id": "bc13e625-31c5-4c85-b5c1-d439a2e87dea",
+		"label": {
+			"value": "Element 2 - Updated"
+		},
+		"comment": {
+			"value": "mon 2nd Element"
+		},
+		"description": "ça c'est un element",
+		"icon": {
+			"path": "go.sum"
+		},
+		"notes": [
+			{
+				"text": "ma première Note"
+			},
+			{
+				"text": "ma troisième Note"
+			}
+		],
+		"tags": [
+			"c0aa44a8-95f0-4b39-91a5-4d4fb95f9619"
+		],
+		"connections": [
+			""
+		],
+		"images": [
+			{
+				"path": "encore.app"
+			}
+		],
+		"containerId": "a3a2ab08-b6c1-4de2-8d28-eceba74df38c",
+		"index": 12
+	},
+	{
+		"id": "63726723-85af-4b96-a501-5eb2f7952023",
+		"label": {
+			"value": "Added Element",
+			"color": 255
+		},
+		"comment": {
+			"value": "test ajout element",
+			"color": 12
+		},
+		"description": "test",
+		"icon": {
+			"path": "encore.app",
+			"color": 256
+		},
+		"notes": [
+			{
+				"text": "Note 1"
+			}
+		],
+		"images": [
+			{
+				"path": "go.mod"
+			}
+		],
+		"containerId": "a3a2ab08-b6c1-4de2-8d28-eceba74df38c",
+		"index": 2
+	}
+]

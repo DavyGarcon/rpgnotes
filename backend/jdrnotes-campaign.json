@@ -1,0 +1,218 @@
+[
+	{
+		"id": "8939c4b1-6f79-4ee4-a5b2-af3e4cd54785",
+		"label": {
+			"value": "Campagne 1"
+		},
+		"comment": {
+			"value": "ma campagne"
+		},
+		"icon": {
+			"path": "go.mod"
+		},
+		"active": true,
+		"notes": [
+			{
+				"text": "Again ma première Note"
+			},
+			{
+				"text": "Again ma seconde Note"
+			}
+		],
+		"gameMasterId": "fa6ce0b5-55fc-49e5-a210-5601dcf2c33d",
+		"playerIds": [
+			"874b58fb-812b-4d03-9e1e-53089117a64b",
+			"bdbd75f0-480a-4428-8db2-a8c20d747994",
+			"870aaaa7-0520-4940-963f-4037d6f0229a",
+			"fe11e821-767e-4552-850b-94eb7dd83bda",
+			"19724c75-5bf1-4738-89c2-a385cdf0b9ea"
+		],
+		"index": 1
+	},
+	{
+		"id": "b80e1aa8-490a-4991-8872-25f0de120c53",
+		"label": {
+			"value": "Campagne 1"
+		},
+		"comment": {
+			"value": "ma campagne"
+		},
+		"icon": {
+			"path": "go.mod"
+		},
+		"active": true,
+		"notes": [
+			{
+				"text": "Again ma première Note"
+			},
+			{
+				"text": "Again ma seconde Note"
+			}
+		],
+		"gameMasterId": "fa6ce0b5-55fc-49e5-a210-5601dcf2c33d",
+		"playerIds": [
+			"874b58fb-812b-4d03-9e1e-53089117a64b",
+			"bdbd75f0-480a-4428-8db2-a8c20d747994",
+			"870aaaa7-0520-4940-963f-4037d6f0229a",
+			"fe11e821-767e-4552-850b-94eb7dd83bda",
+			"19724c75-5bf1-4738-89c2-a385cdf0b9ea",
+			"45c34cb2-c3b4-495f-9f43-eba3e79f6cb2"
+		],
+		"index": 1
+	},
+	{
+		"id": "e10d1367-bc91-45e9-9835-9e07e44768a1",
+		"label": {
+			"value": "Campagne 1"
+		},
+		"comment": {
+			"value": "ma campagne"
+		},
+		"icon": {
+			"path": "go.mod"
+		},
+		"active": true,
+		"notes": [
+			{
+				"text": "Again ma première Note"
+			},
+			{
+				"text": "Again ma seconde Note"
+			}
+		],
+		"gameMasterId": "fa6ce0b5-55fc-49e5-a210-5601dcf2c33d",
+		"playerIds": [
+			"874b58fb-812b-4d03-9e1e-53089117a64b",
+			"bdbd75f0-480a-4428-8db2-a8c20d747994",
+			"870aaaa7-0520-4940-963f-4037d6f0229a",
+			"fe11e821-767e-4552-850b-94eb7dd83bda",
+			"19724c75-5bf1-4738-89c2-a385cdf0b9ea",
+			"45c34cb2-c3b4-495f-9f43-eba3e79f6cb2"
+		],
+		"index": 1
+	},
+	{
+		"id": "6504973b-c0ab-4c57-8ac3-b7b1d1175e0d",
+		"label": {
+			"value": "Campagne 1"
+		},
+		"comment": {
+			"value": "ma campagne"
+		},
+		"icon": {
+			"path": "go.mod"
+		},
+		"active": true,
+		"notes": [
+			{
+				"text": "Again ma première Note"
+			},
+			{
+				"text": "Again ma seconde Note"
+			}
+		],
+		"gameMasterId": "fa6ce0b5-55fc-49e5-a210-5601dcf2c33d",
+		"playerIds": [
+			"874b58fb-812b-4d03-9e1e-53089117a64b",
+			"bdbd75f0-480a-4428-8db2-a8c20d747994",
+			"870aaaa7-0520-4940-963f-4037d6f0229a",
+			"fe11e821-767e-4552-850b-94eb7dd83bda",
+			"19724c75-5bf1-4738-89c2-a385cdf0b9ea",
+			"45c34cb2-c3b4-495f-9f43-eba3e79f6cb2"
+		],
+		"index": 1
+	},
+	{
+		"id": "ae441ced-a91b-4e6c-81a9-b169487c43ce",
+		"label": {
+			"value": "Campagne 1"
+		},
+		"comment": {
+			"value": "ma campagne"
+		},
+		"icon": {
+			"path": "go.mod"
+		},
+		"active": true,
+		"notes": [
+			{
+				"text": "Again ma première Note"
+			},
+			{
+				"text": "Again ma seconde Note"
+			}
+		],
+		"gameMasterId": "fa6ce0b5-55fc-49e5-a210-5601dcf2c33d",
+		"playerIds": [
+			"874b58fb-812b-4d03-9e1e-53089117a64b",
+			"bdbd75f0-480a-4428-8db2-a8c20d747994",
+			"870aaaa7-0520-4940-963f-4037d6f0229a",
+			"fe11e821-767e-4552-850b-94eb7dd83bda",
+			"19724c75-5bf1-4738-89c2-a385cdf0b9ea",
+			"fa6ce0b5-55fc-49e5-a210-5601dcf2c33d"
+		],
+		"index": 1
+	},
+	{
+		"id": "76bdcad6-341e-4436-810b-1ecdfb13c65d",
+		"label": {
+			"value": "Campagne 1"
+		},
+		"comment": {
+			"value": "ma campagne"
+		},
+		"icon": {
+			"path": "go.mod"
+		},
+		"active": true,
+		"notes": [
+			{
+				"text": "Again ma première Note"
+			},
+			{
+				"text": "Again ma seconde Note"
+			}
+		],
+		"gameMasterId": "fa6ce0b5-55fc-49e5-a210-5601dcf2c33d",
+		"playerIds": [
+			"874b58fb-812b-4d03-9e1e-53089117a64b",
+			"bdbd75f0-480a-4428-8db2-a8c20d747994",
+			"870aaaa7-0520-4940-963f-4037d6f0229a",
+			"fe11e821-767e-4552-850b-94eb7dd83bda",
+			"19724c75-5bf1-4738-89c2-a385cdf0b9ea",
+			"fa6ce0b5-55fc-49e5-a210-5601dcf2c33d"
+		],
+		"index": 1
+	},
+	{
+		"id": "b66f9eb6-b635-4373-9b56-02f45256856a",
+		"label": {
+			"value": "Campagne 1"
+		},
+		"comment": {
+			"value": "ma campagne"
+		},
+		"icon": {
+			"path": "go.mod"
+		},
+		"active": true,
+		"notes": [
+			{
+				"text": "Again ma première Note"
+			},
+			{
+				"text": "Again ma seconde Note"
+			}
+		],
+		"gameMasterId": "fa6ce0b5-55fc-49e5-a210-5601dcf2c33d",
+		"playerIds": [
+			"874b58fb-812b-4d03-9e1e-53089117a64b",
+			"bdbd75f0-480a-4428-8db2-a8c20d747994",
+			"870aaaa7-0520-4940-963f-4037d6f0229a",
+			"fe11e821-767e-4552-850b-94eb7dd83bda",
+			"19724c75-5bf1-4738-89c2-a385cdf0b9ea",
+			"fa6ce0b5-55fc-49e5-a210-5601dcf2c33d"
+		],
+		"index": 1
+	}
+]

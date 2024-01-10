@@ -1,0 +1,26 @@
+[
+	{
+		"id": "c0aa44a8-95f0-4b39-91a5-4d4fb95f9619",
+		"Label": {
+			"value": "Tag1",
+			"color": 255
+		},
+		"color": 12
+	},
+	{
+		"id": "969a147a-45d4-4776-a6de-c0ca70a5d70f",
+		"Label": {
+			"value": "Tag2",
+			"color": 125
+		},
+		"color": 65
+	},
+	{
+		"id": "9104056d-864a-4c39-a58c-6ac708178f1e",
+		"Label": {
+			"value": "Tag3",
+			"color": 512
+		},
+		"color": 76
+	}
+]

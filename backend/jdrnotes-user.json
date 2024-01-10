@@ -1,0 +1,51 @@
+[
+	{
+		"id": "fa6ce0b5-55fc-49e5-a210-5601dcf2c33d",
+		"label": {
+			"value": "Davy"
+		},
+		"image": {}
+	},
+	{
+		"id": "874b58fb-812b-4d03-9e1e-53089117a64b",
+		"label": {
+			"value": "Séverine"
+		},
+		"image": {}
+	},
+	{
+		"id": "bdbd75f0-480a-4428-8db2-a8c20d747994",
+		"label": {
+			"value": "Benjamin"
+		},
+		"image": {}
+	},
+	{
+		"id": "870aaaa7-0520-4940-963f-4037d6f0229a",
+		"label": {
+			"value": "Nicolas"
+		},
+		"image": {}
+	},
+	{
+		"id": "fe11e821-767e-4552-850b-94eb7dd83bda",
+		"label": {
+			"value": "Salima"
+		},
+		"image": {}
+	},
+	{
+		"id": "19724c75-5bf1-4738-89c2-a385cdf0b9ea",
+		"label": {
+			"value": "Amandine"
+		},
+		"image": {}
+	},
+	{
+		"id": "45c34cb2-c3b4-495f-9f43-eba3e79f6cb2",
+		"label": {
+			"value": "Test"
+		},
+		"image": {}
+	}
+]

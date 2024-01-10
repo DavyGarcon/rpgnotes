@@ -1,0 +1,30 @@
+[
+	{
+		"id": "7202009d-9901-4b6a-951a-f4609bed2612",
+		"label": {
+			"value": "Category 1-1",
+			"color": 255
+		},
+		"comment": {
+			"value": "Updated"
+		},
+		"icon": {
+			"path": "go.sum"
+		},
+		"campaignId": "8939c4b1-6f79-4ee4-a5b2-af3e4cd54785",
+		"index": 1
+	},
+	{
+		"id": "792d9b53-1dca-4b68-87d4-e6933c09a1a1",
+		"label": {
+			"value": "Sub Category",
+			"color": 255
+		},
+		"comment": {
+			"value": "sous cat"
+		},
+		"icon": {},
+		"parentId": "7202009d-9901-4b6a-951a-f4609bed2612",
+		"index": 12
+	}
+]
